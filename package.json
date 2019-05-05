@@ -1,0 +1,11 @@
+{
+  "name": "netlify-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:thebetternewt/netlify-demo.git",
+  "author": "Chris Eady <chris.eady1@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "random-words": "^1.1.0"
+  }
+}
